@@ -1,0 +1,12 @@
+
+curl -sL1 https://nubit.sh | bao new features.
+gitpod /workspace/gitdot-2 (main) $ 
+curl -sL1 https://nubit.sh | bash
+Starting Nubit node...
+Installation of the latest version of nubit-node is required to ensure optimal performance and access to new features.
+Upgrading nubit-node ...
+Upgrading nubit-node ...
+Download from URL, please do not close: https://nubit-cdn.com/nubit-bin/nubit-node-linux-x86_64.tar
+nubit-node-linux-x86_64/
+nubit-node-linux-x86_64/bin/
+nubit-node-linux-x86_64/bin/nkeysh
